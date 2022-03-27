@@ -19,7 +19,6 @@
 
 .main-img{
 	object-fit: cover;
-	object-position: center;
 }
 
 .main-sombra{
@@ -41,9 +40,9 @@
 
 @media (min-width: 768px) {
 	.main-text{
-			font-size: 1.05rem;
-			font-weight: 300;
-		}
+		font-size: 1.05rem;
+		font-weight: 300;
+	}
 }
 
 
@@ -57,17 +56,17 @@
 
 @media (min-width: 1200px) {
 	.main-text{
-			font-size: 1.25rem;
-			font-weight: 300;
-		}
+		font-size: 1.25rem;
+		font-weight: 300;
+	}
 }
 
 
 @media (min-width: 1400px) {
 	.main-text{
-			font-size: 1.25rem;
-			font-weight: 300;
-		}
+		font-size: 1.25rem;
+		font-weight: 300;
+	}
 }
 
 .s_media{
